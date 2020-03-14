@@ -1,0 +1,8 @@
+html {
+  @include font($font-normal);
+  line-height: 1.6;
+}
+
+body {
+  margin: 0;
+}
